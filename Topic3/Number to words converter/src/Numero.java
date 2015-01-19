@@ -253,7 +253,7 @@ public class Numero {
 
 	public String getCents(double number) {
 
-		return "and " + number + "/100 cents";
+		return  number + "/100 cents";
 
 	}
 
