@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Reproductor/src"/>
+	<classpathentry kind="src" path="rootProject/javaApp/src/main/java"/>
+	<classpathentry kind="src" path="rootProject/javaApp/src/test/java"/>
+	<classpathentry kind="src" path="Topic3/Number to words converter/src"/>
+	<classpathentry kind="src" path="Topic3/RecentFileList/src"/>
+	<classpathentry kind="src" path="Topic3/Topic_3_WordAlgorithm/src"/>
+	<classpathentry kind="src" path="Topic3/Topic3_NumberConverter/src"/>
+	<classpathentry kind="src" path="Topico0"/>
+	<classpathentry kind="src" path="Topico1/src"/>
+	<classpathentry kind="lib" path="Topico1/dist/Topico1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Topico1/build/classes"/>
+</classpath>
